@@ -10,4 +10,5 @@ User Activity Log: A register to track user logins.
 Transaction Register: A log for tracking transfers and the individuals who conducted them.
 Separation of Concerns: The user interface and backend are separated into distinct classes to improve modularity and maintainability.
 This project aims to provide a comprehensive and efficient system for managing banking and currency exchange operations. 
+
 You can log in with Name : User1 , Password: 1111
